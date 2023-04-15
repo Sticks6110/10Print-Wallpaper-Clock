@@ -1,4 +1,4 @@
 # 10Print Wallpaper Clock
- ![](https://github.com/Sticks6110/10Print-Wallpaper-Clock/10Print.png)
+ ![](https://raw.githubusercontent.com/Sticks6110/10Print-Wallpaper-Clock/10Print.png)
  A wallpaper clock that is in the form of the classic 10Print.
  To use this wallpaper you need [AutoWall](https://github.com/SegoCode/AutoWall)
